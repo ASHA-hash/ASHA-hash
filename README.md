@@ -4,6 +4,6 @@
 - 📫 How to reach me - karthikeyanasha24@gmail.com
 
 <!---
-ASHA-hash/ASHA-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASHA-KARTHIKEYAN/ASHA-KARTHIKEYAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
